@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"GoTutorial/greeting"
+	greeting "github.com/LenciFede/GoTutorial/greeting/cdm"
 )
 
 // TestGreeting usa el paquete que viene para testing en golang.

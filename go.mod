@@ -1,4 +1,4 @@
-module GoTutorial
+module github.com/LenciFede/GoTutorial
 
 go 1.21.1
 
